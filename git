@@ -1,0 +1,1 @@
+> uninitialize the repository using command {rm -rf .git} in gitbash (not in terminal/powershell), this helps to sort out problems in vscode source control git.
