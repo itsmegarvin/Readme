@@ -1,1 +1,2 @@
-> uninitialize the repository using command {rm -rf .git} in gitbash (not in terminal/powershell), this helps to sort out problems in vscode source control git.
+1. uninitialize the repository using command {rm -rf .git} in gitbash (not in terminal/powershell), this helps to sort out problems in vscode source control git.
+2. {git help git} in git bash shows all the commands and whatare they used for.
